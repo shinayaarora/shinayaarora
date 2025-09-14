@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/shinayaarora/shinayaarora/main/header.png)
+![Header](https://raw.githubusercontent.com/shinayaarora/shinayaarora/main/banner.png)
 ## Hi there, I'm Shinaya 👋
 
 🎓 Undergraduate Student at UC Davis studying Data Science & Economics
